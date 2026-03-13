@@ -10,6 +10,7 @@ export default function Main(){
               <label htmlFor="password">password</label>
               <input type="password" name="password" id="password"/>
               <p className="forgot">forgot password?</p>
+              <button>login</button>
            </form>
          </nav>
           
