@@ -55,6 +55,11 @@ button{
 
 }
 .header form .OR{
-    color: white;
+    color: black;
     text-align: center;
+}
+.google{
+   background-color: white;
+   color: black;
+   margin-top: 10px;
 }

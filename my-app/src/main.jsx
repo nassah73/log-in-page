@@ -11,7 +11,8 @@ export default function Main(){
               <input type="password" name="password" id="password"/>
               <p className="forgot">forgot password?</p>
               <button>login</button>
-              <p> OR</p>
+              <p className="OR">OR</p>
+              <button className="google">countinue with google</button>
            </form>
          </nav>
           
