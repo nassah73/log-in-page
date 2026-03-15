@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 export default function Main(){
     return(
         <div className="main">
@@ -12,7 +13,7 @@ export default function Main(){
               <p className="forgot">forgot password?</p>
               <button>login</button>
               <p className="OR">OR</p>
-              <button className="google">countinue with google</button>
+              <button className="google"><FontAwesomeIcon icon={byPrefixAndName.fab['google']} /> countinue with google</button>
            </form>
          </nav>
           
