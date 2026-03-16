@@ -65,4 +65,10 @@ button{
    margin-top: 10px;
     cursor: pointer;
 }
-
+.signin{
+    color: rgb(8, 8, 251);
+}
+.question{
+    font-weight: 600;
+    justify-self: center;
+}

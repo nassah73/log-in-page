@@ -16,7 +16,7 @@ export default function Main(){
               <p className="OR">OR</p>
               <button className="platforms"><FontAwesomeIcon icon={faGoogle} /> countinue with google</button>
               <button className="platforms"><FontAwesomeIcon icon={faGithub} /> countinue with google</button>
-                <p></p>
+                <p className="question">you don't have a count ? <a href="" className="signin">sign in</a></p>
            </form>
          </nav>
           
