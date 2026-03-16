@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faGoogle } from "@fortawesome/free-brands-svg-icons";
+import { faGoogle, faGithub } from "@fortawesome/free-brands-svg-icons";
 export default function Main(){
     return(
         <div className="main">
@@ -14,7 +14,9 @@ export default function Main(){
               <p className="forgot">forgot password?</p>
               <button>login</button>
               <p className="OR">OR</p>
-              <button className="google"><FontAwesomeIcon icon={faGoogle} /> countinue with google</button>
+              <button className="platforms"><FontAwesomeIcon icon={faGoogle} /> countinue with google</button>
+              <button className="platforms"><FontAwesomeIcon icon={faGithub} /> countinue with google</button>
+                <p></p>
            </form>
          </nav>
           
