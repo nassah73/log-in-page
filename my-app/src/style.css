@@ -1,5 +1,5 @@
 body{
-    background-image: url("https://drisskettani.com/images/projets-detail/1/2.jpg");
+    background-image:rgba(0, 0, 0, 0.5) url("https://drisskettani.com/images/projets-detail/1/2.jpg") ;
     background-repeat: no-repeat;
     background-position: center;
      background-size: cover;
